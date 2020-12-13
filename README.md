@@ -13,7 +13,7 @@ The most important part implemented by me it is in `my_answer.py` file.
 ## Results
 
 <!--img src="assets/results.png" alt="drawing" width="800"/-->
-![Result in Test Set](assets/results.png)
+![Result in Test Set](https://github.com/rodolfojt/Bike_Sharing_Prediction/blob/master/assets/results.PNG)
 
 ## Dependencies
 
