@@ -12,7 +12,8 @@ The most important part implemented by me it is in `my_answer.py` file.
 
 ## Results
 
-![Result in Test Set](/assets/results.png)
+<img src="assets/results.png" alt="drawing" width="800"/>
+<!--![Result in Test Set](assets/results.png =550x300)-->
 
 ## Dependencies
 
